@@ -4,7 +4,7 @@
 const nuevaString = 'milka';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 290703;
+const nuevoNum = 290702;
 
 // Crea una variable booleana:
 const nuevoBool = 3>1;
